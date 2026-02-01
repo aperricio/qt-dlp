@@ -340,7 +340,7 @@ class QtDLP(QMainWindow):
         self.setWindowTitle("qt-dlp")
         # Reducir el tamaño mínimo inicial
         self.setMinimumSize(800, 400)  # Reducido de 1000x760
-        self.setWindowIcon(QIcon("/home/aperricio/Documentos/Dev/Python/python-ppa/aplicaciones/img/qt-dlp.png"))
+        self.setWindowIcon(QIcon("img/qt-dlp.png"))
         
         # Variables
         self.config = AppConfig()
