@@ -1,6 +1,6 @@
 # qt-dlp: interfaz gráfica para yt-dlp escrita en Qt
 
-![Captura de pantalla](/img/Captura de pantalla.png)
+![Captura de pantalla](/img/captura-de-pantalla.png)
 
 
 qt-dlp es una interfaz gráfica para yt-dlp. El motivo de crearla fue que quería una app en Qt (no GTK) que hiciera de interfaz de yt-dlp para mi uso personal. Básicamente hace lo siguiente:
